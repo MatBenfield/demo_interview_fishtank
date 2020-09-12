@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTankTests", "FishTankTests\FishTankTests.csproj", "{8EFCB2A8-7F55-4130-B699-421D400BE60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTankLibrary", "FishTankLibrary\FishTankLibrary.csproj", "{515F4AFB-C2EF-4BA9-BCB3-208904AFF03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTank", "FishTank\FishTank.csproj", "{19772324-A450-49D5-84F5-6B863BFE7920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFCB2A8-7F55-4130-B699-421D400BE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFCB2A8-7F55-4130-B699-421D400BE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFCB2A8-7F55-4130-B699-421D400BE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFCB2A8-7F55-4130-B699-421D400BE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515F4AFB-C2EF-4BA9-BCB3-208904AFF03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515F4AFB-C2EF-4BA9-BCB3-208904AFF03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515F4AFB-C2EF-4BA9-BCB3-208904AFF03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515F4AFB-C2EF-4BA9-BCB3-208904AFF03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19772324-A450-49D5-84F5-6B863BFE7920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19772324-A450-49D5-84F5-6B863BFE7920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19772324-A450-49D5-84F5-6B863BFE7920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19772324-A450-49D5-84F5-6B863BFE7920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
