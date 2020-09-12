@@ -1,6 +1,6 @@
 # Demo Interview Fish tank
  
-A fish tank interview style question and solution in dotnet core console, library and tests with Nunit.
+A fish tank interview style question and solution in dotnet core console, class library, and Nunit tests.
 
 I Need a new C# Class library (any .net version) to help me manage my fish tank. Don't worry about the UI: I will build that
 The library should satisfy the following user stories and demonstrate your design, coding and testing abilities.
